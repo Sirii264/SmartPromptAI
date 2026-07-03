@@ -99,6 +99,3 @@ SmartPromptAI/
 
 Artificial Intelligence | Machine Learning | Python Developer
 
----
-
-⭐ If you found this project useful, consider giving it a Star!
